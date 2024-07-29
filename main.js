@@ -1,2 +1,2 @@
 const myHeading = document.querySelector("h1")
-myHeading.innerText ="hello there! welcome to week 10"
+myHeading.innerText ="hello there! welcome to week 10 alan and nancy"
